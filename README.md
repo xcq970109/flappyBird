@@ -1,5 +1,5 @@
-# flappyBird
-An Android FlappyBird game clone.
+# FlappyBird Clone
+An Android clone of FlappyBird game.
    
 <img width="180" height="320" src="https://github.com/xcq970109/flappyBird/blob/master/gif/normal.gif"/>
 
